@@ -25,4 +25,4 @@ dnsmasq使用的规则，包含google，youtube，维基百科，facebook，twit
 ##### 手机google play可以正常显示图片，正常下载APP
 
 ---
-#### 本项目HOSTS和dnsmasq部分IP地址使用香港移动sni proxy服务器，非网站官方服务器，流量需要经过服务器转发，安全性不作保证，请使用者自行承担风险
+#### 本项目HOSTS和dnsmasq部分IP地址使用香港sni proxy服务器，流量需要经过香港服务器转发，安全性不作保证，请勿进行私密操作。如果出现问题请使用者自行承担风险。

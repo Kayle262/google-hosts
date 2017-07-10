@@ -1,4 +1,6 @@
-### google hosts
+## 目前sni失效导致无法观看youtube视频，我正在努力修复，因为更换sni需要添加很多的域名，所以最晚明天晚上才可以发布hosts新的版本，dnsmasq版本可以更新后重启即可恢复使用。
+
+## google hosts
 一个可以看youtube的hosts
 不定期更新，如不能使用请反馈
 

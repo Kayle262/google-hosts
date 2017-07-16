@@ -1,6 +1,6 @@
 # Copyright (c) 2014-2017, fengixng
 # https://github.com/fengixng/google-hosts
-# Last updated: 2017-07-10
+# 更新时间: 2017-07-16
 
 127.0.0.1     localhost
 
@@ -4689,11 +4689,12 @@
 #     tumblr
 66.6.32.31	tumblr.com
 66.6.32.31	www.tumblr.com
-119.161.11.11	tumblr.co
-119.161.11.11	api.tumblr.com
-119.161.11.11	vt.tumblr.com
-119.161.11.11	assets.tumblr.com
-119.161.11.11	media.tumblr.com
+119.161.4.42	tumblr.co
+119.161.4.42	api.tumblr.com
+119.161.4.42	vt.tumblr.com
+119.161.4.42	vtt.tumblr.com
+119.161.4.42	assets.tumblr.com
+119.161.4.42	media.tumblr.com
 192.229.237.97	cynicallys.tumblr.com
 192.229.237.97	mx.tumblr.com
 87.248.116.14	vt.media.tumblr.com
